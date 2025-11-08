@@ -1,4 +1,8 @@
-Updated version of the GBDK project Temporal Tactics using GBDK v4.4.0
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> I built my own Game Boy ROM. Works on anything that can run a Game Boy ROM (I use a GBA).
+
+> Updated version of the GBDK project Temporal Tactics using GBDK v4.4.0
 
 # Temporal Tactics (GBDK-2020)
 
@@ -44,3 +48,14 @@ Avoid crashing and/or shooting a version of your ship.
 
    ```
 Once complete, the updated TemporalTactics.gb file will be created.
+Run the ROM using any Game Boy emulator.
+Or flash it to a cartridge to play on real hardware. (Game Boy sold separately)
+
+---
+
+### Credits
+
+- Built using [GBDK-2020](https://github.com/gbdk-2020/gbdk-2020)
+- Sprites and tiles made with [GBTD](https://www.devrs.com/gb/hmgd/gbtd.html) / [GBMB](https://www.devrs.com/gb/hmgd/gbmb.html)
+- Developed by Liam Reid
+
