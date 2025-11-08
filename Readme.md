@@ -1,10 +1,9 @@
+# Temporal Tactics (GBDK-2020)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > I built my own Game Boy ROM. Works on anything that can run a Game Boy ROM (I use a GBA).
 
 > Updated version of the GBDK project Temporal Tactics using GBDK v4.4.0
-
-# Temporal Tactics (GBDK-2020)
 
 A retro Game Boy project built using **GBDK-2020 v4.4.0**.  
 This project includes custom sprites, background tiles, and gameplay logic written in C.
@@ -17,11 +16,11 @@ This project is a simple custom made Game Boy ROM
 It runs on the original Game Boy hardware or any compatible emulator.
 
 **How To Play**
-Use 'A' to move forward
-Use 'B' to shoot
-Use the directions to change what way to face
-Use 'START' to begin/replay the game
-Use 'SELECT' to switch colour palettes
+- Use 'A' to move forward
+- Use 'B' to shoot
+- Use the directions to change what way to face
+- Use 'START' to begin/replay the game
+- Use 'SELECT' to switch colour palettes
 
 Shoot the target and get to the goal without running out of moves. 
 Each round creates a duplicate of your ship that performs the actions you made in the previous round.
